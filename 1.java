@@ -1,1 +1,1 @@
-this is the second line added
+ the java is a typical programming language
