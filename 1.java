@@ -1,1 +1,3 @@
- the java is a typical programming language
+Java is an advanced progamming language
+
+This is the second day i am modifying this file
